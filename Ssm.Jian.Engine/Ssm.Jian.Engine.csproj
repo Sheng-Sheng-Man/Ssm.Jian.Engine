@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Egg.Lark" Version="16.1.2301.8" />
+    <PackageReference Include="Egg.Lark" Version="16.1.2301.11" />
   </ItemGroup>
 
 </Project>
