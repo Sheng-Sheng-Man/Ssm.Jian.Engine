@@ -2,6 +2,8 @@
 
 一种使用中文作为关键字的函数式脚本引擎(Jian Script Engine)；
 
+A functional script engine using Chinese as a keyword.
+
 ![license](https://img.shields.io/github/license/Sheng-Sheng-Man/Ssm.Jian.Engine)
 ![codeSize](https://img.shields.io/github/languages/code-size/Sheng-Sheng-Man/Ssm.Jian.Engine)
 ![lastCommit](https://img.shields.io/github/last-commit/Sheng-Sheng-Man/Ssm.Jian.Engine)
