@@ -2,6 +2,10 @@
 
 一种使用中文作为关键字的函数式脚本引擎(Jian Script Engine)；
 
+![license](https://img.shields.io/github/license/Sheng-Sheng-Man/Ssm.Jian.Engine)
+![codeSize](https://img.shields.io/github/languages/code-size/Sheng-Sheng-Man/Ssm.Jian.Engine)
+![lastCommit](https://img.shields.io/github/last-commit/Sheng-Sheng-Man/Ssm.Jian.Engine)
+
 ## 函数式脚本
 
 脚本整体就是一个函数，但函数的参数可以是另一个函数定义，由此自由展开形成丰富的功能实现；
