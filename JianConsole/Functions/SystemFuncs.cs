@@ -10,7 +10,7 @@ namespace JianConsole.Functions
     /// <summary>
     /// 系统函数
     /// </summary>
-    public class SystemFuncs
+    public class SystemFuncs : ScriptFunctionRegistrBase
     {
         [Func("大于")]
         public bool GreaterThan(double value1, double value2)

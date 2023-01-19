@@ -8,10 +8,8 @@
     <Version>1.0.2301.1</Version>
     <ApplicationIcon>script.ico</ApplicationIcon>
     <Authors>Uncle Zheng</Authors>
-    <Title>声声慢·简脚本语言执行器</Title>
-    <PackageId>$(AssemblyName)</PackageId>
-    <Product>声声慢·简脚本语言执行器</Product>
-    <Description>在终端中执行简语言脚本</Description>
+    <Title></Title>
+    <PackageId>声声慢·简脚本语言执行器</PackageId>
   </PropertyGroup>
 
   <ItemGroup>

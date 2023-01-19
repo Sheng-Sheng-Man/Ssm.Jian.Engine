@@ -3,10 +3,11 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
     <Nullable>enable</Nullable>
+    <Version>1.0.2301.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Egg.Lark" Version="16.1.2301.11" />
+    <PackageReference Include="Egg.Lark" Version="16.1.2301.12" />
   </ItemGroup>
 
 </Project>
