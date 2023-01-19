@@ -23,5 +23,11 @@ namespace JianConsole.Functions
         {
             Console.WriteLine(content);
         }
+
+        [Func("等待输入")]
+        public double ReadKey()
+        {
+            return (int)Console.ReadKey().Key;
+        }
     }
 }

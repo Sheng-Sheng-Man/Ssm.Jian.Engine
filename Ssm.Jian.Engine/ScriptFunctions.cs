@@ -17,7 +17,8 @@ namespace Ssm.Jian.Engine
             {
                 for (int i = 0; i < args.Count; i++)
                 {
-                    FuncInvoke(this.Engine, args[i]);
+                    var arg = args[i];
+                    FuncInvoke(this.Engine, arg);
                 }
             });
             base.Reg("计算", args =>
